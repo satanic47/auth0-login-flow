@@ -7,7 +7,7 @@
 // Default configuration from user's Auth0 tenant
 const DEFAULT_CONFIG = {
   domain: "dev-ycggan14b30pol1n.eu.auth0.com",
-  clientId: "SXqDvoKEkJtCbgYIpUKYVtYro0ctwu52"
+  clientId: "HDpmLjuqijvLsBJuuhnoVRhMbsyygxfv"
 };
 
 let auth0Client = null;

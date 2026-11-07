@@ -64,7 +64,7 @@ Visit [`http://localhost:3000`](http://localhost:3000) in your browser!
 ```json
 {
   "domain": "dev-ycggan14b30pol1n.eu.auth0.com",
-  "clientId": "SXqDvoKEkJtCbgYIpUKYVtYro0ctwu52"
+  "clientId": "HDpmLjuqijvLsBJuuhnoVRhMbsyygxfv"
 }
 ```
 
