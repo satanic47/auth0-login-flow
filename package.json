@@ -1,0 +1,20 @@
+{
+  "name": "auth0-login-flow",
+  "version": "1.0.0",
+  "description": "Production-grade, modern Auth0 login starter built for MLH Global Hack Week: Builders Week",
+  "main": "index.html",
+  "scripts": {
+    "start": "python server.py"
+  },
+  "keywords": [
+    "auth0",
+    "mlh",
+    "global-hack-week",
+    "authentication",
+    "oauth2",
+    "jwt",
+    "spa"
+  ],
+  "author": "satanic47",
+  "license": "MIT"
+}
